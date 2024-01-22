@@ -6,3 +6,10 @@ main
 
 # R
 .Rhistory
+
+# TypeScript
+typescript/node_modules
+typescript/main.js
+package-lock.json
+package.json
+tsconfig.json
